@@ -2,7 +2,9 @@
 A Simple Moving Average Strategy for NIFTY50 stocks
 
 >Used a Biweekly( 2 week moving mean) moving mean for short terms
-and a 10 mean moving average for a long term period.
+
+
+>and a 10 mean moving average for a long term period.
 
 # Informatives
 Data Source: Yahoo Finance
